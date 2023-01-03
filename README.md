@@ -16,7 +16,7 @@
 * 개발 인원 : 기획 1명, 디자인 1명, 퍼블리셔 2명, 개발자 3명
 * 프로젝트 기간 : 2022-11-17 ~
 * 개발 환경 : React, SpringBoot 2.4.5, JDK 11, Spring JPA, Junit5
-* 배포 환경 : Gradle, Jenkins, Centos7 [On-premise 예정]
+* 배포 환경 : Gradle, Jenkins, Docker, Centos7 [On-premise 예정]
 * 웹서버 : Ngnix, Tomcat 9.0
 * 데이터베이스: MySQL
 * 협업도구: Git, Notion, Slack, Figma
