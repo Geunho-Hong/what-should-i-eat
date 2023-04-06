@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: server1
+
+server-number: 1
+
+---
+spring:
+  config:
+    activate:
+      on-profile: server2
+
+server-number: 2
