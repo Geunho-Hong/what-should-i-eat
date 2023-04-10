@@ -2,6 +2,8 @@ spring:
   config:
     activate:
       on-profile: server1
+server:
+  port: 9090
 
 server-number: 1
 
@@ -10,5 +12,8 @@ spring:
   config:
     activate:
       on-profile: server2
+
+server:
+  port: 9091
 
 server-number: 2
