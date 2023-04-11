@@ -4,6 +4,7 @@ spring:
       on-profile: server1
 server:
   port: 9090
+  address: 119.70.42.35
 
 server-number: 1
 
@@ -15,5 +16,6 @@ spring:
 
 server:
   port: 9091
+  address: 119.70.42.35
 
 server-number: 2
